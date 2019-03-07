@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour {
 
+    public int currentScore;
+    public int highScore;
+
 	// Use this for initialization
 	void Start () {
 		
